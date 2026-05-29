@@ -1,6 +1,6 @@
 # PDF Invoice Extractor
 
-A production-ready Python tool that extracts structured data from PDF invoices — both text-based and scanned (OCR).
+I Created A production-ready Python tool that extracts structured data from PDF invoices — both text-based and scanned (OCR).
 
 ## Features
 
